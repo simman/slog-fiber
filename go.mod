@@ -1,4 +1,4 @@
-module github.com/samber/slog-fiber
+module github.com/simman/slog-fiber/v3
 
 go 1.21
 
